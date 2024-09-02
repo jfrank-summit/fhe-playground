@@ -1,0 +1,43 @@
+# Rust build artifacts
+/target/
+
+# Rust package manager directory
+Cargo.lock
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+
+# Environment variables
+.env
+
+# Debug files
+*.pdb
+
+# Dependency directories
+vendor/
+
+# Generated documentation
+/doc/
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
