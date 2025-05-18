@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2018"
 
 [dependencies]
-tfhe = { version = "*", features = ["boolean", "shortint", "integer", "x86_64-unix"] }
+tfhe = { version = "*", features = ["boolean", "shortint", "integer"] }
